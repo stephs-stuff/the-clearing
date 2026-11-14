@@ -8,5 +8,5 @@ Ideas to revisit, not commitments:
 - Movement planning and reusable workouts; no food or biometric tracking.
 - Installable PWA, mobile quick capture.
 - Read-only Outlook calendar integration subject to permissions.
-- Butler daily suggestions, re-entry support, project continuity; GPT and Claude via secure server functions.
+- Scout daily suggestions, re-entry support, project continuity; GPT and Claude via secure server functions.
 - Optional modules and selective context sharing.
