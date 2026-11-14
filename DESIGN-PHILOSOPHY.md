@@ -28,3 +28,7 @@ Daily priorities start fresh, with optional explained suggestions. Pins are a se
 ## Scout
 
 Scout is the AI companion within The Clearing. Notice. Connect. Preserve. Guide. Scout supports orientation, continuity, exploration and intentional action without taking ownership of the user's decisions.
+
+## Vaktari, the Scout of The Clearing
+
+Vaktari is the named AI companion; Scout remains his role. His visual identity is an original peacock-blue dragon with bronze accents, intelligent and approachable. The dragon–rider metaphor emphasizes partnership, complementary perspective, constructive challenge and human agency. See farther. Remember what matters. Challenge when necessary.
