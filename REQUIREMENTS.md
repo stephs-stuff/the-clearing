@@ -15,3 +15,7 @@ Support configurable opening and closing transition blocks (e.g., 30 minutes eac
 ## Multimodal inbox capture
 
 Provide mobile-friendly quick capture for typed text, links, audio dictation, recorded voice notes, video notes, and photos of handwritten material. Save first without requiring categorization. Optional AI transcription, OCR and extraction may propose separate inbox items, notes, tasks or ideas for user approval; never silently create commitments. Allow users to retain or delete original recordings independently of derived text. Use private authenticated media storage, explicit recording permissions, clear upload status and retry behavior. Test iOS Safari and installed PWA recording support; offer native dictation or file upload fallback. Audio capture and transcription should precede video in implementation unless user priorities change. Never capture confidential institutional or student records.
+
+## My Landscape
+
+Provide a bird's-eye view of life areas, with editable starter categories Work, Home, Health, Personal Growth, and Relationships. Distinguish finite projects, ongoing responsibilities, recurring routines, and evolving interests. Allow an item to link to multiple areas without duplication. Scout may suggest connections and surface neglected or crowded areas without imposing balance targets or commitments. Keep the overview separate from today's workspace. Actual personal records remain private.
