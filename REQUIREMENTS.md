@@ -11,3 +11,7 @@ Support configurable preferred work periods and task attention demands: responsi
 ### Workday bookends
 
 Support configurable opening and closing transition blocks (e.g., 30 minutes each). These are protected orientation and disengagement periods, not miscellaneous task execution windows. Opening brings forward daily orientation, intentions and workspace assembly. Closing brings forward continuation notes, loose-end capture and preparation for the next session (Tomorrow's Launchpad). Distinguish official work hours from a user-selected departure target; anchor closing to the latter when appropriate. Avoid filling transition blocks with additional tasks. Keep actual schedules and preferences private.
+
+## Multimodal inbox capture
+
+Provide mobile-friendly quick capture for typed text, links, audio dictation, recorded voice notes, video notes, and photos of handwritten material. Save first without requiring categorization. Optional AI transcription, OCR and extraction may propose separate inbox items, notes, tasks or ideas for user approval; never silently create commitments. Allow users to retain or delete original recordings independently of derived text. Use private authenticated media storage, explicit recording permissions, clear upload status and retry behavior. Test iOS Safari and installed PWA recording support; offer native dictation or file upload fallback. Audio capture and transcription should precede video in implementation unless user priorities change. Never capture confidential institutional or student records.
