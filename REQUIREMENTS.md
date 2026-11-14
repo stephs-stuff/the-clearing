@@ -19,3 +19,7 @@ Provide mobile-friendly quick capture for typed text, links, audio dictation, re
 ## My Landscape
 
 Provide a bird's-eye view of life areas, with editable starter categories Work, Home, Health, Personal Growth, and Relationships. Distinguish finite projects, ongoing responsibilities, recurring routines, and evolving interests. Allow an item to link to multiple areas without duplication. Scout may suggest connections and surface neglected or crowded areas without imposing balance targets or commitments. Keep the overview separate from today's workspace. Actual personal records remain private.
+
+## Scout execution support and change impact analysis
+
+Distinguish reusable playbooks from dynamically generated execution checklists. After a user makes a decision, Scout can inspect authorized project context and relationships to identify affected resources, dependencies, downstream changes, verification steps and possible omissions. Distinguish verified impacts from hypotheses and missing information. Offer an editable checklist for approval, not automatic changes or commitments. Support reusable process kits and optional lightweight decision records. Preserve human ownership of decisions and execution scope.
