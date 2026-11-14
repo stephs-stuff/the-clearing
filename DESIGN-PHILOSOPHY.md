@@ -16,3 +16,11 @@ Command Central is a daily staging area, not an exhaustive dashboard. It support
 ## Continuity as a core design goal
 
 Help users maintain continuity between intentions and action while preserving curiosity, spontaneity and autonomy. With explicit permission, future assistance may learn routines, recurring commitments, planning patterns and preferences from actual behavior. Offer optional checkpoints, re-entry support and suggestions; distinguish a deliberate change of priorities from an unintentional diversion without assuming either. Never diagnose, shame, enforce routines or silently rearrange plans. Learned patterns should be inspectable, correctable, optional and deletable. Pattern learning is a future capability, not implemented in the prototype.
+
+## Adaptive challenge
+
+Personalization must not merely reinforce existing tendencies. With permission, the Butler should notice recurring patterns and offer proportionate, evidence-based questions about whether they support the user's stated intentions. Treat interpretations as hypotheses, not diagnoses or facts. Question the suitability of routines and the system itself as well as behavior. Invite the user to confirm, correct, dismiss or revise a pattern; allow adjustment of challenge frequency and intensity. Never infer readiness solely from inactivity or treat deliberate deferral as failure. No automatic changes to priorities, pins or routines. Support ongoing reflection and adaptation, not compliance.
+
+## Intentional visibility
+
+Daily priorities start fresh, with optional explained suggestions. Pins are a separate persistent awareness mechanism: keeping something visible does not create an obligation or deadline. The daily toolkit gathers resources for today's intentions. These are independent dimensions, not mandatory workflow stages.
