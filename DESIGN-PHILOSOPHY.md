@@ -19,8 +19,12 @@ Help users maintain continuity between intentions and action while preserving cu
 
 ## Adaptive challenge
 
-Personalization must not merely reinforce existing tendencies. With permission, the Butler should notice recurring patterns and offer proportionate, evidence-based questions about whether they support the user's stated intentions. Treat interpretations as hypotheses, not diagnoses or facts. Question the suitability of routines and the system itself as well as behavior. Invite the user to confirm, correct, dismiss or revise a pattern; allow adjustment of challenge frequency and intensity. Never infer readiness solely from inactivity or treat deliberate deferral as failure. No automatic changes to priorities, pins or routines. Support ongoing reflection and adaptation, not compliance.
+Personalization must not merely reinforce existing tendencies. With permission, the Scout should notice recurring patterns and offer proportionate, evidence-based questions about whether they support the user's stated intentions. Treat interpretations as hypotheses, not diagnoses or facts. Question the suitability of routines and the system itself as well as behavior. Invite the user to confirm, correct, dismiss or revise a pattern; allow adjustment of challenge frequency and intensity. Never infer readiness solely from inactivity or treat deliberate deferral as failure. No automatic changes to priorities, pins or routines. Support ongoing reflection and adaptation, not compliance.
 
 ## Intentional visibility
 
 Daily priorities start fresh, with optional explained suggestions. Pins are a separate persistent awareness mechanism: keeping something visible does not create an obligation or deadline. The daily toolkit gathers resources for today's intentions. These are independent dimensions, not mandatory workflow stages.
+
+## Scout
+
+Scout is the AI companion within The Clearing. Notice. Connect. Preserve. Guide. Scout supports orientation, continuity, exploration and intentional action without taking ownership of the user's decisions.
