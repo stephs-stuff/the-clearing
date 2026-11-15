@@ -6,7 +6,7 @@ Clarity for today. Continuity for tomorrow.
 - Capture first, organize later. Only a task title is required.
 - Distinguish deadlines from intentions; no guilt or streak pressure.
 - AI proposes; the user decides. No silent changes.
-- Modern eclectic boho with midcentury influences: peacock blue, spring grass, warm ivory, walnut and raspberry plum. Clean sans serif functional text; restrained expressive accents. Space before borders. Accessible contrast and keyboard navigation.
+- Modern eclectic boho with midcentury influences: peacock blue, spring grass, warm ivory, walnut and garnet. Clean sans serif functional text; restrained expressive accents. Space before borders. Accessible contrast and keyboard navigation.
 - Private data stays outside public source code. No secrets in frontend code.
 
 ## Command Central
@@ -40,3 +40,7 @@ With the user's permission, Vaktari occasionally initiates thoughtful observatio
 ## Stable architecture, flexible activity
 
 The Clearing is a workspace, not a website. Use a quiet, ebook-like editorial layout with a persistent left navigation anchor, consistent line icons, active-page highlighting and a house-only Home link to Command Central in the upper right. Shared shell files centralize navigation and visual styling. Preserve readable content before editing controls, generous writing space, and progressive disclosure. Prefer whitespace and restrained accents over decorative cards. Command Central is dynamic; The Clearing is stable; Vaktari bridges the two. Suggestions may adapt to the user without silently rearranging the environment. Sidebar collapse and persistent Keep in View shortcuts are future refinements.
+
+## Refined palette
+
+Warm stone #EAE8DF anchors navigation; ivory #F8F5ED surrounds the work; cool porcelain #F5F8FA distinguishes the content surface. Deep teal #174E52 anchors headings and active navigation; peacock #086788 is a secondary accent. Garnet #982E3D replaces raspberry plum; spring grass #8CBF40 remains a tiny artistic accent. Reserve most expressive use of garnet, spring grass and bronze for Vaktari rather than imposing additional interface color coding. Vaktari's primary coloring remains peacock blue and deep teal.
