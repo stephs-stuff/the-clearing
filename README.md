@@ -14,3 +14,9 @@ The current prototype uses fictional examples and temporary interactions. It is 
 - [Requirements](REQUIREMENTS.md)
 - [Roadmap](ROADMAP.md)
 - [Idea Garden](IDEA-GARDEN.md)
+
+## Connected workspace
+
+[Sign in to The Clearing](https://stephs-stuff.github.io/the-clearing/workspace.html)
+
+Initial Supabase integration: email/password authentication, tasks and inbox. Use fictional test entries until access tests are complete. The design prototype remains separate and temporary.
