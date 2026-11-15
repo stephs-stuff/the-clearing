@@ -43,4 +43,4 @@ The Clearing is a workspace, not a website. Use a quiet, ebook-like editorial la
 
 ## Refined palette
 
-Warm stone #EAE8DF anchors navigation; ivory #F8F5ED surrounds the work; cool porcelain #F5F8FA distinguishes the content surface. Deep teal #174E52 anchors headings and active navigation; peacock #086788 is a secondary accent. Garnet #982E3D replaces raspberry plum; spring grass #8CBF40 remains a tiny artistic accent. Reserve most expressive use of garnet, spring grass and bronze for Vaktari rather than imposing additional interface color coding. Vaktari's primary coloring remains peacock blue and deep teal.
+Warm stone #EAE8DF anchors navigation; ivory #F8F5ED surrounds the work; clean white #FFFFFF distinguishes the content surface. Deep teal #174E52 anchors headings and active navigation; peacock #086788 is a secondary accent. Garnet #982E3D replaces raspberry plum; spring grass #8CBF40 remains a tiny artistic accent. Reserve most expressive use of garnet, spring grass and bronze for Vaktari rather than imposing additional interface color coding. Vaktari's primary coloring remains peacock blue and deep teal.
