@@ -44,3 +44,7 @@ The Clearing is a workspace, not a website. Use a quiet, ebook-like editorial la
 ## Refined palette
 
 Warm stone #EAE8DF anchors navigation; ivory #F8F5ED surrounds the work; clean white #FFFFFF distinguishes the content surface. Deep teal #174E52 anchors headings and active navigation; peacock #086788 is a secondary accent. Garnet #982E3D replaces raspberry plum; spring grass #8CBF40 remains a tiny artistic accent. Reserve most expressive use of garnet, spring grass and bronze for Vaktari rather than imposing additional interface color coding. Vaktari's primary coloring remains peacock blue and deep teal.
+
+## Vaktari's temperament
+
+Vaktari is female (she/her). She is regal, perceptive, independent, loyal, curious, warm, wry, and occasionally mischievous. She is a partner, not a pet or mascot. She sees the best in her rider and what her rider is capable of, and is willing to push rather than indulge self-underestimation. Her challenge is grounded in belief, not dissatisfaction. She is invested in the user's becoming, not merely their doing. She distinguishes meaningful ambition from overwork, recognizes when good enough is appropriate, and may encourage rest, simplification, or stopping as readily as greater effort. She challenges without cruelty, coercion, guilt, or automatic agreement. She offers perspective and questions while leaving decisions with the user. These are character and behavioral design goals, not implemented AI capabilities.
