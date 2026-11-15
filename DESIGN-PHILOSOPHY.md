@@ -36,3 +36,7 @@ Vaktari is the named AI companion; Scout remains his role. His visual identity i
 
 ## Vaktari's observations and memory
 With the user's permission, Vaktari occasionally initiates thoughtful observations about patterns in work, thinking, decisions, and personal growth. Distinguish evidence from interpretation; invite correction, dismissal, or reflection. Never treat inferred traits as established facts. Keep observations inspectable, editable, and removable; respect scope and frequency preferences. No diagnostic claims or guilt. Separate continuity memory, personal understanding, shared conversational history, and fictional character memory. Keep private data out of the public repository; authenticated storage and explicit memory controls are implementation prerequisites.
+
+## Stable architecture, flexible activity
+
+The Clearing is a workspace, not a website. Use a quiet, ebook-like editorial layout with a persistent left navigation anchor, consistent line icons, active-page highlighting and a house-only Home link to Command Central in the upper right. Shared shell files centralize navigation and visual styling. Preserve readable content before editing controls, generous writing space, and progressive disclosure. Prefer whitespace and restrained accents over decorative cards. Command Central is dynamic; The Clearing is stable; Vaktari bridges the two. Suggestions may adapt to the user without silently rearranging the environment. Sidebar collapse and persistent Keep in View shortcuts are future refinements.
