@@ -6,3 +6,5 @@ header a.home-link{color:#174e52}.layout aside{min-width:0}.layout aside input[t
 
 /* White working surfaces, including the secondary item index. */
 body:not(.command-central) .layout>aside{background:var(--porcelain);border:1px solid #deddd4;border-radius:4px;padding:12px}.paper{background:#ffffff;border-color:#deddd4}.command-central main section,.command-central main section.note,.command-central #planning details,.command-central .priority-notes,.command-central .day,.command-central .signal{background:#ffffff}.command-central #planning .priority-settings{background:#ffffff}.command-central .signal,.command-central .day{border:1px solid #deddd4}
+
+.sidenav #logout{background:transparent;color:#174e52;text-align:left;border:1px solid #deddd4;padding:8px 10px;font-size:13px;margin-top:8px}.sidenav #logout:hover{background:#f8f5ed}
