@@ -14,4 +14,4 @@ Notice, connect, preserve, guide. Offer constructive challenge without guilt, co
 A static reclining, attentive illustration in the existing Scout panel of Command Central. Decorative, responsive, no overlay or interaction, no changes to authentication or data. Future resting, scouting, studying and playful poses are optional. AI, animation and behavioral triggers remain future work. See DESIGN-PHILOSOPHY.md and ROADMAP.md.
 
 ## Asset convention
-Store approved reference artwork in assets/vaktari/reference/ and isolated poses in assets/vaktari/poses/. Proposed first filenames: character-sheet.png and watching.png. Asset upload and workspace integration remain pending until the actual image files are available in the repository.
+Approved artwork is stored in `assets/vaktari/character-sheet.png` and `assets/vaktari/watching.png`. The reclining pose is integrated into the existing Scout panel in `workspace.html`. Desktop and mobile visual verification remains pending. Subfolders may be introduced as the collection grows.
