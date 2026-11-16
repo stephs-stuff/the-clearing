@@ -31,7 +31,7 @@ Scout is the AI companion within The Clearing. Notice. Connect. Preserve. Guide.
 
 ## Vaktari, the Scout of The Clearing
 
-Vaktari is the named AI companion; Scout remains his role. His visual identity is an original peacock-blue dragon with bronze accents, intelligent and approachable. The dragon–rider metaphor emphasizes partnership, complementary perspective, constructive challenge and human agency. See farther. Remember what matters. Challenge when necessary.
+Vaktari is the named AI companion; Scout remains her role. Her visual identity is an original peacock-blue dragon with deep teal, garnet and bronze-gold carnival-glass iridescence, intelligent and approachable. The dragon–rider metaphor emphasizes partnership, complementary perspective, constructive challenge and human agency. See farther. Remember what matters. Challenge when necessary.
 
 
 ## Vaktari's observations and memory
